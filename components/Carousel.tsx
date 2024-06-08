@@ -69,4 +69,5 @@ const EmblaCarousel = ({ fansLikeDetail }: CarouselProps) => {
   )
 }
 
+
 export default EmblaCarousel
